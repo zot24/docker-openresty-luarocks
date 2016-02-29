@@ -1,3 +1,5 @@
+[![](https://badge.imagelayers.io/zot24/openresty-luarocks:latest.svg)](https://imagelayers.io/?images=zot24/openresty-luarocks:latest 'Get your own badge on imagelayers.io')
+
 # OpenRest - LuaRocks Docker image
 
 This image depends on [OpenResty docker base image](https://github.com/zot24/openresty) because the installation of LuaRocks in this case is very tied to [OpenResty](https://openresty.org/)
